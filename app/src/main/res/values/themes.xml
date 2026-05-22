@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.HydroBovi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00B4D8</item>
+        <item name="colorPrimaryDark">#0F3460</item>
+        <item name="colorAccent">#00B4D8</item>
+        <item name="android:statusBarColor">#0F3460</item>
+        <item name="android:windowBackground">#1A1A2E</item>
+    </style>
+</resources>
